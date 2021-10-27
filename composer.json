@@ -9,7 +9,7 @@
     },
     "require": {
         "imangazaliev/didom": "^1.18",
-        "guzzlehttp/guzzle": "7.0"
+        "guzzlehttp/guzzle": "^7.0"
     },
     "require-dev": {
         "larapack/dd": "1.*",

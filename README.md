@@ -1,23 +1,23 @@
-<p align="center">
-    Pornhub Toolbox
-</p>
+#Pornhub Toolbox
 
 ## About Pornhub Toolbox
 
 Toolbox is a bunch of instruments for developers. We believe, everyone should have access to videos they want. Sometimes, standard Pornhub API is not good enough. Toolbox can help you develop your own apps, based on Pornhub.
+[Project repo on Github](https://github.com/Cregennan/pornhub-toolkit)
 
-##Installation
+
+## Installation
 ```composer
 composer require cregennan/pornhub-toolkit
 ```
-You can always download package directly from [here](https://github.com/Vasiliy-Makogon/Database/archive/refs/heads/master.zip). 
+You can always download package directly from [here](https://github.com/Cregennan/pornhub-toolkit/archive/refs/heads/master.zip). 
 You'll need to manually include ToolBox and ToolboxDefinitions classes from `/src`
 
 
-##Tools
+## Tools
  - [Video direct link extractor](#cdn-video-link-extractor)
  
- ###Video direct link extractor
+### Video direct link extractor
  Pornhub Embed video is not enough for some situations. Here comes Link Extractor.
  
  Usage: `Toolkit::GetMediaData($viewkey)`
@@ -47,10 +47,10 @@ $data = json_decode(Toolkit::GetMediaData($viewkey));
     "quality":"1080"
 }]
 ```
-##Issues
+## Issues
 You can always send issue in its tab or make pull request with some fixes.
 
-##License
+## License
 Pornhub Toolbox is open sourced software licensed under [MIT license](https://opensource.org/licenses/MIT).
 
 
