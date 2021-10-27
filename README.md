@@ -16,7 +16,7 @@ You'll need to manually include ToolBox and ToolboxDefinitions classes from `/sr
 
 
 ## Tools
- - [Video direct link extractor](#cdn-video-link-extractor)
+ - [Video direct link extractor](#video-direct-link-extractor)
  
 ### Video direct link extractor
  Pornhub Embed video is not enough for some situations. Here comes Link Extractor.
