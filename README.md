@@ -6,7 +6,7 @@
 
 Toolbox is a bunch of instruments for developers. We believe, everyone should have access to videos they want. Sometimes, standard Pornhub API is not good enough. Toolbox can help you develop your own apps, based on Pornhub.
 
-##Installation
+#Installation
 ```composer
 composer require cregennan/pornhub-toolkit
 ```
