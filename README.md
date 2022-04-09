@@ -1,4 +1,4 @@
-# Pornhub Toolbox
+# Pornhub Toolkit
 [![license](https://img.shields.io/github/license/Cregennan/pornhub-toolkit)](https://github.com/Cregennan/pornhub-toolkit/blob/master/LICENSE.md)
 ![issues](https://img.shields.io/github/issues/Cregennan/pornhub-toolkit)
 ## About
